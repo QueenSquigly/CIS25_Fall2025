@@ -1,1 +1,1 @@
-# CIS25_Fall2025
+the program allows you to add items to your inventory by however much you want, view your invatory (theres supposed to be a loop that forces you to exit but i couldnt get it to work), a option to sell your items (will also end the prgram after running) and a option to end it immediately 
