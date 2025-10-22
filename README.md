@@ -1,1 +1,1 @@
-part 1 consist of a system that allows you to choose between adding items, viewing invatory, selling items, or simply exiting the program
+part 1 consist of a system that allows you to choose between adding items, viewing invatory, selling items, or simply exiting the program. part 2 was debbuging so the sytem allows you to type in 3 numbers and it will find which of them is the biggest.
