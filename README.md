@@ -1,1 +1,1 @@
-# CIS25_Fall2025
+when this program runs it will give a set amount of cash and buy items, if a item is over the budget then the transaction will fail and go to the next item. this will also create another file that shows the items youve purchased and the cost of it.
